@@ -278,4 +278,62 @@ An echogenizer that doesn't rot is also of interest.
 
 ## Bibliography
 
+> Perez-Sanchez A, Johnson G, Pucks N, et al. Comparison of 6 handheld ultrasound devices by point-of-care ultrasound experts: a cross-sectional study. Ultrasound J. 2024;16(1):45. doi:10.1186/s13089-024-00392-3
+
+> Evans LV, Dodge KL, Shah TD, et al. Simulation training in central venous catheter insertion: improved performance in clinical practice. Acad Med. 2010;85(9):1462-1469. doi:10.1097/ACM.0b013e3181eac9a3
+
+>Tibamoso-Pedraza G, Navarro I, Dion P, et al. Design of heart phantoms for ultrasound imaging of ventricular septal defects. Int J Comput Assist Radiol Surg. 2022;17(1):177-184. doi:10.1007/s11548-021-02406-0
+
+> Tan X, Li D, Jeong M, et al. Soft liver phantom with a hollow biliary system. Ann Biomed Eng. 2021;49(9):2139-2149. doi:10.1007/s10439-021-02726-x
+
+> Aoyagi M. Sodium alginate ultrasound phantom for medical education. Ultrason Imaging. 2021;43(5):253-261. doi:10.1177/01617346211018643
+
+> Hacker L, Ivory AM, Joseph J, et al. A stable phantom material for optical and acoustic imaging. J Vis Exp. 2023;(196):e65475. doi:10.3791/65475
+
 > Earle M, Portu GD, DeVos E. Agar ultrasound phantoms for low-cost training without refrigeration. Afr J Emerg Med. 2016;6(1):18-23. doi:10.1016/j.afjem.2015.09.003
+
+> Sidoti A, Brogi E, Biancofiore G, et al. Ultrasound- versus landmark-guided subclavian vein catheterization: a prospective observational study from a tertiary referral hospital. Sci Rep. 2019;9(1):1-7. doi:10.1038/s41598-019-48766-1
+
+> Rezayat T, Stowell J, Kendall J, Turner E, Fox J, Barjaktarevic I. Ultrasound-guided cannulation: Time to bring subclavian central lines back. West J Emerg Med. 2016;17(2):216-221. doi:10.5811/westjem.2016.1.29462
+
+> Blüthgen C, Sanabria S, Frauenfelder T, Klingmüller V, Rominger M. Economical sponge phantom for teaching, understanding, and researching A- and B-line reverberation artifacts in lung ultrasound. J Ultrasound Med. 2017;36(10):2133-2142. doi:10.1002/jum.14266
+
+> Shokoohi H, Boniface K. Hand ultrasound: a high-fidelity simulation of lung sliding: Hand ultrasound to teach lung sliding. Acad Emerg Med. 2012;19(9):E1079-83. doi:10.1111/j.1553-2712.2012.01431.x
+
+> Hoffmann B, Gullett JP, Hill HF, et al. Bedside ultrasound of the neck confirms endotracheal tube position in emergency intubations. Ultraschall Med. 2014;35(5):451-458. doi:10.1055/s-0034-1366014
+
+> Morrow DS, Broder J. Cost-effective, reusable, leak-resistant ultrasound-guided vascular access trainer. J Emerg Med. 2015;49(3):313-317. doi:10.1016/j.jemermed.2015.04.005
+
+> Amini R, Kartchner JZ, Stolz LA, Biffar D, Hamilton AJ, Adhikari S. A novel and inexpensive ballistic gel phantom for ultrasound training. World J Emerg Med. 2015;6(3):225-228. doi:10.5847/wjem.j.1920-8642.2015.03.012
+
+> Campo Dell’orto M, Hempel D, Starzetz A, et al. Assessment of a low-cost ultrasound pericardiocentesis model. Emerg Med Int. 2013;2013(1):376415. doi:10.1155/2013/376415
+
+> DIY ultrasound phantom compendium. Ultrasound Training. Accessed January 18, 2025. https://www.ultrasoundtraining.com.au/resources/diy-ultrasound-phantom-compendium/
+
+> Do HH, Lee S. A low-cost training phantom for lung ultrasonography. Chest. 2016;150(6):1417-1419. doi:10.1016/j.chest.2016.09.033
+
+> Hungr N, Long JA, Beix V, Troccaz J. A realistic deformable prostate phantom for multimodal imaging and needle-insertion procedures: Deformable prostate phantom for imaging and needle insertion. Med Phys. 2012;39(4):2031-2041. doi:10.1118/1.3692179
+
+> Li W, Belmont B, Greve JM, et al. Polyvinyl chloride as a multimodal tissue-mimicking material with tuned mechanical and medical imaging properties. Med Phys. 2016;43(10):5577. doi:10.1118/1.4962649
+
+> Li W, Belmont B, Shih A. Design and manufacture of polyvinyl chloride (PVC) tissue mimicking material for needle insertion. Procedia Manuf. 2015;1:866-878. doi:10.1016/j.promfg.2015.09.078
+
+> Lo MD, Ackley SH, Solari P. Homemade ultrasound phantom for teaching identification of superficial soft tissue abscess. Emerg Med J. 2012;29(9):738-741. doi:10.1136/emermed-2011-200264
+
+> Morrow DS, Cupp JA, Broder JS. Versatile, reusable, and inexpensive ultrasound phantom procedural trainers. J Ultrasound Med. 2016;35(4):831-841. doi:10.7863/ultra.15.04085
+
+> Pepley DF, Sonntag CC, Prabhu RS, et al. Building ultrasound phantoms with modified polyvinyl chloride: A comparison of needle insertion forces and sonographic appearance with commercial and traditional simulation materials. Simul Healthc. 2018;13(3):149-153. doi:10.1097/SIH.0000000000000302
+
+> Seguin J, Tessaro MO. A simple, inexpensive phantom model for intubation ultrasonography training. Chest. 2017;151(5):1194-1196. doi:10.1016/j.chest.2017.02.014
+
+> Shin KC, Ha YR, Lee SJ, Ahn JH. Review of simulation model for education of point-of-care ultrasound using easy-to-make tools. World J Clin Cases. 2020;8(19):4286-4302. doi:10.12998/wjcc.v8.i19.4286
+
+> Sullivan A, Khait L, Favot M. A novel low-cost ultrasound-guided pericardiocentesis simulation model: Demonstration of feasibility. J Ultrasound Med. 2018;37(2):493-500. doi:10.1002/jum.14337
+
+> Wayne DB, Barsuk JH, O’Leary KJ, Fudala MJ, McGaghie WC. Mastery learning of thoracentesis skills by internal medicine residents using simulation technology and deliberate practice. J Hosp Med. 2008;3(1):48-54. doi:10.1002/jhm.268
+
+> Wilson J, Myers C, Lewiss RE. A low-cost, easy to make ultrasound phantom for training healthcare providers in pleural fluid identification and task simulation in ultrasound-guided thoracentesis. Vis J Emerg Med. 2017;8(1):80-81. doi:10.1016/j.visj.2017.03.010
+
+> You-Ten KE, Siddiqui N, Teoh WH, Kristensen MS. Point-of-care ultrasound (POCUS) of the upper airway. Can J Anaesth. 2018;65(4):473-484. doi:10.1007/s12630-018-1064-8
+
+> Zerth H, Harwood R, Tommaso L, Girzadas DV Jr. An inexpensive, easily constructed, reusable task trainer for simulating ultrasound-guided pericardiocentesis. J Emerg Med. 2012;43(6):1066-1069. doi:10.1016/j.jemermed.2011.05.066
