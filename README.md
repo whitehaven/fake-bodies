@@ -1,6 +1,10 @@
 # fake-bodies
 
-An Empirical Exploration of Things to Poke With a Needle That Aren’t Patients. (Trials to create ultrasound-compatible models for training purposes.)
+**An Empirical Exploration of Things to Poke With a Needle That Aren’t Patients.** 
+
+
+*(Trials to create ultrasound-compatible models for procedural training purposes.)*
+
 
 ## Project Aims
 
