@@ -1,6 +1,6 @@
-# call-of-gel
+# fake-bodies
 
-Trials to create ultrasound-compatible models for training purposes.
+An Empirical Exploration of Things to Poke With a Needle That Aren’t Patients. (Trials to create ultrasound-compatible models for training purposes.)
 
 ## Project Aims
 
