@@ -1,14 +1,24 @@
 #title([fake-bodies: An exploration of things to poke with a needle that aren't patients
 ])
-#set text(font: "New Computer Modern", size: 10pt,)
+#set text(font: "New Computer Modern", size: 10pt)
 
 Creation of ultrasound-compatible models for procedural training.
 
 = Executive Summary
-#table(columns:3,table.header()[Strength\ of Recommendation][Evidence\ for Recommendation][Recommendation],
-[High],[Medium],[Use agar 5-10% rather than gelatin, tofu, or meat phantoms. @Earle2016-xs @Aoyagi2021-vn @Sullivan2018-gu @Do2016-oq @Amini2015-wa @Skanes2019-nn @Seguin2017-si @Wilson2017-aa],
-[Medium],[Medium],[Gelatin is an acceptable alternative to agar if agar unavailable. @Rezayat2016-pv @Sidoti2019-kx @Sidoti2019-kx @Sullivan2018-gu @Morrow2015-xi],
-[Medium],[Low],[Consider plasticized PVC as an alternative to agar if resources are available given advantage of stability, balanced with much higher projected cost and process complexity. @Li2016-yu @Li2015-jq @Pepley2018-mn @Tibamoso-Pedraza2022-py],
+#table(
+  columns: 3,
+  table.header()[Strength\ of Recommendation][Evidence\ for Recommendation][Recommendation],
+  [High],
+  [Medium],
+  [Use agar 5-10% rather than gelatin, tofu, or meat phantoms. @Earle2016-xs @Aoyagi2021-vn @Sullivan2018-gu @Do2016-oq @Amini2015-wa @Skanes2019-nn @Seguin2017-si @Wilson2017-aa],
+
+  [Medium],
+  [Medium],
+  [Gelatin is an acceptable alternative to agar if agar unavailable. @Rezayat2016-pv @Sidoti2019-kx @Sullivan2018-gu @Morrow2015-xi],
+
+  [Medium],
+  [Low],
+  [Consider plasticized PVC as an alternative to agar if resources are available given advantage of stability, balanced with much higher projected cost and process complexity. @Li2016-yu @Li2015-jq @Pepley2018-mn @Tibamoso-Pedraza2022-py],
 )
 
 = Project Aims
